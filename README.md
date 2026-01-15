@@ -4,7 +4,7 @@
 🔐 Interested in systems, security, and software engineering<br/>
 
 - 🔭 I’m currently working on small projects to strengthen my programming and problem-solving skills<br/>
-- 🌱 I’m currently learning Python, Java, SQL, Linux, and computer science fundamentals<br/>
+- 🌱 I’m currently learning Python, Java, SQL, Data Structures, and Algorithms br/>
 - 👯 I’m looking to collaborate on beginner-friendly CS projects and open-source contributions<br/>
 - 🤔 I’m looking for help with deepening my understanding of systems, security concepts, and clean code practices<br/>
 - 💬 Ask me about my learning journey, CS projects, or how I stay organized while studying<br/>
