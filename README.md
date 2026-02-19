@@ -1,7 +1,7 @@
 ## Hi there 👋 I’m Aisha
 
-💻 Aspiring Computer Science student/ Senior in HS<br/>
-🔐 Interested in systems, security, and software engineering<br/>
+Aspiring Computer Science/Engindeering student/ Senior in HS<br/>
+Interested in systems, security, and software engineering<br/>
 
 - 🔭 I’m currently working on small projects to strengthen my programming and problem-solving skills<br/>
 - 🌱 I’m currently learning Python, Java, SQL, Data Structures, and Algorithms br/>
