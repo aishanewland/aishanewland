@@ -1,11 +1,11 @@
 ## Hi there 👋 I’m Aisha
 
-Aspiring Computer Science/Engindeering student/ Senior in HS<br/>
-Interested in systems, security, and software engineering<br/>
+Student @ Illinois Institute of Technology; Class of 2030<br/>
+Major: Computer Science; Minor: Applied Math<br/>
+Interested in Programming, Math, AI, ML<br/>
 
 - 🔭 I’m currently working on small projects to strengthen my programming and problem-solving skills<br/>
-- 🌱 I’m currently learning Python, Java, SQL, Data Structures, and Algorithms br/>
-- 👯 I’m looking to collaborate on beginner-friendly CS projects and open-source contributions<br/>
+- 🌱 I’m currently learning Python, Java, SQL, Data Structures, and Algorithms<br/>
 - 🤔 I’m looking for help with deepening my understanding of systems, security concepts, and clean code practices<br/>
 - 💬 Ask me about my learning journey, CS projects, or how I stay organized while studying<br/>
 - 📫 How to reach me: GitHub messages or [www.linkedin.com/in/aisha-newland]<br/>
